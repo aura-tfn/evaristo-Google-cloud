@@ -11,3 +11,15 @@ smart-home-key.json
 .idea/
 build/
 .gradle/
+
+# Maven
+target/
+*.war
+*.jar
+*.class
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
